@@ -1,0 +1,232 @@
+.custom-nav{
+    padding: 0.7% 10%;
+    background-color: #7A1B1B !important;
+}
+
+.white{
+    color: white !important;
+}
+
+.black{
+    color: black;
+}
+
+.image-1{
+    width: 40px;
+    height: 40px;
+}
+
+.logo{
+    border-radius: 10px;
+    background-color: #FBF3E7;
+    padding: 5px 10px;
+}
+
+.btn-1{
+    color: white;
+    background-color: #40dd4d;
+    border: none;
+    border-radius: 20px;
+    padding: 7px 15px;
+}
+
+.home{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    color: #E1B25F !important;
+}
+
+.home :hover{
+    text-decoration: underline;
+}
+
+.section-1{
+    width: 100%;
+    height: 70vh;
+    background-color: #FBF3E7;
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+
+.child-1 h1{
+    color: #4A0E0E;
+    font-family: 'Rozha One', serif;
+    font-weight: 400;
+    font-size: clamp(1.5rem, 4vw, 2.1rem);
+}
+
+.whatsapp{
+    color: #4A0E0E;
+    text-decoration: underline;
+}
+
+.advertisement{
+    color: gray;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 11px !important;
+    letter-spacing: 2px;
+}
+
+.list-1{
+    margin-top: 3%;
+    font-size: 18px;
+}
+
+.list-1 li{
+    padding: 17px 10px;
+}
+
+.section-2{
+    width: 100%;
+    height: 197vh;
+    background-color: #4A0E0E;
+}
+
+.child-2{
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+}
+
+.child-2 img{
+    border-radius: 20px;
+    border: 1px solid #EFD9A8;
+}
+
+.section-3{
+    width: 100%;
+    height: auto;
+    background-color: #FBF3E7;
+}
+
+.child-3 h3{
+    color: #4A0E0E;
+    font-family: 'Rozha One', serif;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+.child-3 h5{
+    color: #4A0E0E !important;
+    font-family: 'Rozha One', serif;
+    font-weight: bold;
+    padding: 10px 5px;
+}
+
+.child-3{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.list-group{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.list-group li{
+    width: 100%;
+    border-radius: 10px;
+    color: #4A0E0E !important;
+    background-color: white !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.span{
+    font-weight: normal;
+    font-size: 14px;
+    color: gray;
+    text-align: left !important;
+}
+
+.child-3 .whatsapp{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.child-3 p{
+    padding-top: 15px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.part-1 span{
+    color: #7A1B1B;
+    background-color: #F5EDED;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    border: 1px solid #c23a3a;
+    padding: 6px 12px;
+    border-radius: 15px;
+}
+
+.part-1 .card{
+    width: 32% !important;
+    border-radius: 15px !important;
+}
+
+.part-1 .card img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.part-1 h5{
+    color: black !important;
+    font-size: 22px;
+    padding-top: 20px;
+}
+
+.part-1 .card p{
+    padding: 0px;
+    padding-left: 5px;
+    color: rgb(112, 111, 111);
+    font-family: 'Rozha One', serif;
+    font-size: 17px;
+}
+
+.part-1 .card h6{
+    font-size: 13px;
+    color: gray;
+}
+
+.link{
+    color: #4A0E0E;
+    font-weight: bold;
+    text-decoration: none;
+    padding-bottom: 7px;
+    padding-left: 13%;
+}
+
+.part-1 .card .style{
+    display: flex;
+    align-items: center;
+}
+
+.part-2 h5{
+    color: #4A0E0E !important;
+    font-family: 'Rozha One', serif;
+    font-weight: bold;
+    padding: 10px 5px;
+}
+
+.part-2 .link{
+    text-align: left !important;
+    display: flex;
+    padding: 0px;
+    padding-bottom: 15px;
+}
+
+.part-2 .link :hover{
+    text-decoration: underline !important;
+}
